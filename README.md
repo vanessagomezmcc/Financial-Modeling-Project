@@ -6,7 +6,7 @@ A comprehensive financial planning and analysis web application that helps users
 
 **[View Live Application](https://financial-model-project-31vmzghgn-vanessagomezmccs-projects.vercel.app/)**
 
-## 📋 Overview
+## Overview
 
 The Financial Risk Platform is a full-stack web application designed to empower users with data-driven insights into their financial health. Built with modern web technologies, it provides real-time calculations and visualizations to help users make informed financial decisions.
 
